@@ -77,3 +77,7 @@ curl --location --request PUT 'localhost:8080/frete' \
     ]
 }'
 ```
+
+
+<h2>Docker</h2>
+Utulizei de forma simples o Docker-Composer:
